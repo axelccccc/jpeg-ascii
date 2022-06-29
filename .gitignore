@@ -1,0 +1,9 @@
+.cache
+.vscode
+assets
+build
+include
+lib
+misc
+tmp
+.clangd
